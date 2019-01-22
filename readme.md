@@ -12,6 +12,7 @@ Jan 22nd 2019 in Sao Paulo - Brazil.
 This app is capable of:
 - Linking a custom alphanumeric string to a any LongURL submitted to it and store such relation.
 - Redirecting 'thisAppDomain/cutomString' to respective LongURLs.
+- Being extended due to the fact it was built through Larave's MVC Framework.
 
 ### Development
 - Single page application with raw Javascript code that requests Laravel's /app/Http/Controllers/ShortenedURL.php to manage Shortened URLs.
